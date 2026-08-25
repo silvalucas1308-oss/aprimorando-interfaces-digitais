@@ -1,23 +1,24 @@
     :root{
-        --cor-primaria:#2F4155;
-        --cor-secundaria:#264a74;
-        --cor-fundo: #FFFFFF;
-        --cor-texto: #151428;
-        --cor-contraste: #f3eef7;
-        --cor-botao: #f9f9f9;
-    
-        --fonte-texto:'Segoe UI', sans-serif
+      
+    --cor-primaria: #d63384;      
+    --cor-secundaria: #c2185b;   
+    --cor-fundo: #fff0f5;       
+    --cor-texto: #151428;        
+    --cor-contraste: #ffe3ec;   
+    --cor-botao: #fcc2d7;        
 
-    }
-    
-    .tema-escuro{
-        --cor-primaria:#A6CEFE;
-        --cor-secundaria:#98caff;
-        --cor-fundo: #0f172a;
-        --cor-texto: #ffffff;
-        --cor-contraste: #1e293b;
-        --cor-botao: #151428;
-    }
+    --fonte-texto: 'Segoe UI', sans-serif;
+}
+
+.tema-escuro {
+   
+    --cor-primaria: #ff66b2;     
+    --cor-secundaria: #ff9ebb;  
+    --cor-fundo: #1c0310;       
+    --cor-texto: #ffffff;        
+    --cor-contraste: #33081e;     
+    --cor-botao: #4e0e31;         
+}
 
 .tema-escuro{
     color: var(--cor-secundaria);
